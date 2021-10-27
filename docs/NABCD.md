@@ -1,4 +1,4 @@
-# **NABCD 模型分析**
+# NABCD 模型分析
 
 ## N(Need)
 
