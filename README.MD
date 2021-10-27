@@ -1,24 +1,79 @@
-# 软件工程样例项目阅读说明
-本项目以实例方式，显示了一个软件项目的组织方式，产出文档。
-样例项目中的文档不一定是同一个项目，主要目的是展示文档如何编写。
+<div align="center" id="top"> 
+  <img src="./logo.svg" alt="Flicker" />
 
-## 文件组织结构
-Doc目录存放项目中个文档。
-Src目录存放项目代码。
+&#xa0;
 
-## Git提交说明
-不要提交编译产生的中间文件，注意使用.gitignore文件控制上传文件。关于.gitignore文件的使用请延伸阅读。
-[如何忽略特殊文件](https://www.liaoxuefeng.com/wiki/896043488029600/900004590234208)
+  <!-- <a href="https://vitereacttypescriptstarter.netlify.app">Demo</a> -->
+</div>
 
-## 项目成员
-为了老师检查项目方便，请在项目的README.md文件中加入项目成员名单。格式如下：
+<h1 align="center">Flicker</h1>
 
-##### 小组成员
+<p align="center">
 
-登录名 | 姓名 |分工  |贡献
------------- | ------------- |------------ | -------------
-reroze | 张浚哲  | 实现flask框架的响应设计，协调vue，jinja  |20%
-daydayup7 | 王赫  | 实现全部静态页面设计  |  20%
-chenjinggang | 陈劲钢 |实现数据库的配置定义，提供接口  |  20%
-fyc52| 冯一村 | 实现vue框架页面设计  |  20%
-howardY | 杨昊  | 实现网络通信，包括服务器的搭建，以及发布页面  |  20%
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xiong35/Flicker-FE?color=64EDAC">
+
+  <img alt="License" src="https://img.shields.io/github/license/xiong35/Flicker-FE?color=64EDAC">
+
+  <img alt="Github issues" src="https://img.shields.io/github/issues/xiong35/Flicker-FE?color=64EDAC" />
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/xiong35/Flicker-FE?color=64EDAC" />
+</p>
+
+<!-- Status -->
+
+<h4 align="center">
+	🚧  Flicker 🚀 Under construction...  🚧
+</h4>
+
+<hr>
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#author">Author</a>
+</p>
+
+<br>
+
+## :dart: About
+
+Flicker 是一款可高度自定义的知识学习及分享网站, 部署于: [TODO]
+
+## :sparkles: Features
+
+- 支持自定义题库
+- 支持分享题库
+- 支持评论题目
+- 支持收藏他人发布的题库
+- 支持多种题目模式
+- 题目与答案均支持富文本(markdown 及 katex)
+- 支持多种主题样式
+
+## :rocket: Technologies
+
+- 前端: React, vite, TypeScript, Scss, Material-UI,
+- 后端: golang, echo, mongo, redis
+- 运维: husky, docker, docker-compose, nginx, drone-ci
+
+## :memo: License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
+
+## Author
+
+👨‍💻 Made with :heart: by
+
+小组成员
+
+| id                                              | 姓名   | 分工                             | 贡献 |
+| ----------------------------------------------- | ------ | -------------------------------- | ---- |
+| [xiong35](https://github.com/xiong35)           | 熊逸朗 | 前端, 编写界面, React 逻辑及样式 | 25%  |
+| [gucan707](https://github.com/gucan707)         | 顾璨   | 前端, 编写界面, React 逻辑及样式 | 25%  |
+| [ueqri](https://github.com/ueqri)               | 严航   | 后端, 运维                       | 25%  |
+| [woolen-sheep](https://github.com/woolen-sheep) | 尹一涵 | 后端, 运维                       | 25%  |
+
+&#xa0;
+
+<a href="#top">Back to top</a>
