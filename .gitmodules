@@ -1,6 +1,6 @@
-[submodule "Flicker-BE"]
-	path = Flicker-BE
-	url = git@github.com:woolen-sheep/Flicker-BE.git
-[submodule "Flicker-FE"]
-	path = Flicker-FE
-	url = git@github.com:xiong35/Flicker-FE.git
+[submodule "Src/Flicker-BE"]
+	path = Src/Flicker-BE
+	url = git@gitee.com:woolen-sheep/Flicker-BE.git
+[submodule "Src/Flicker-FE"]
+	path = Src/Flicker-FE
+	url = git@gitee.com:xiong35/Flicker-FE.git
