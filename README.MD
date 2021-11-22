@@ -67,12 +67,12 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 小组成员
 
-| id                                              | 姓名   | 分工                             | 贡献 |
-| ----------------------------------------------- | ------ | -------------------------------- | ---- |
-| [xiong35](https://github.com/xiong35)           | 熊逸朗 | 前端, 编写界面, React 逻辑及样式 | 25%  |
-| [gucan707](https://github.com/gucan707)         | 顾璨   | 前端, 编写界面, React 逻辑及样式 | 25%  |
-| [ueqri](https://github.com/ueqri)               | 严航   | 后端, 运维                       | 25%  |
-| [woolen-sheep](https://github.com/woolen-sheep) | 尹一涵 | 后端, 运维                       | 25%  |
+| id                                              | 姓名          | 分工                             | 贡献 |
+| ----------------------------------------------- | ------------- | -------------------------------- | ---- |
+| [xiong35](https://github.com/xiong35)           | 熊逸朗 cs1901 | 前端, 编写界面, React 逻辑及样式 | 25%  |
+| [gucan707](https://github.com/gucan707)         | 顾璨 cs1902   | 前端, 编写界面, React 逻辑及样式 | 25%  |
+| [ueqri](https://github.com/ueqri)               | 严航 cs1902   | 后端, 运维                       | 25%  |
+| [woolen-sheep](https://github.com/woolen-sheep) | 尹一涵 cs1902 | 后端, 运维                       | 25%  |
 
 &#xa0;
 
